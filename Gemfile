@@ -11,4 +11,4 @@ gem 'xml-simple'
 
 gem 'nest_thermostat'
 
-gem 'dashing-contrib', '~> 0.1.6'
+gem 'dashing-contrib', '~> 0.2.2'
